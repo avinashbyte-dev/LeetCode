@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/avinashbyte-dev/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/avinashbyte-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/avinashbyte-dev/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashbyte-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/avinashbyte-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/avinashbyte-dev/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashbyte-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -38,10 +39,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashbyte-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashbyte-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashbyte-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashbyte-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
