@@ -71,4 +71,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/avinashbyte-dev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/avinashbyte-dev/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
