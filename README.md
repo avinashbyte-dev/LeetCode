@@ -31,6 +31,7 @@
 | [0347-top-k-frequent-elements](https://github.com/avinashbyte-dev/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashbyte-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/avinashbyte-dev/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/avinashbyte-dev/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/avinashbyte-dev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/avinashbyte-dev/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sorting
@@ -50,6 +51,7 @@
 | [0049-group-anagrams](https://github.com/avinashbyte-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/avinashbyte-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/avinashbyte-dev/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/avinashbyte-dev/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/avinashbyte-dev/LeetCode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -121,6 +123,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/avinashbyte-dev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/avinashbyte-dev/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/avinashbyte-dev/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/avinashbyte-dev/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/avinashbyte-dev/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
