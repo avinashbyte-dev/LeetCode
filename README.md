@@ -59,6 +59,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/avinashbyte-dev/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/avinashbyte-dev/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/avinashbyte-dev/LeetCode/tree/master/0567-permutation-in-string) |
+| [2810-faulty-keyboard](https://github.com/avinashbyte-dev/LeetCode/tree/master/2810-faulty-keyboard) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/avinashbyte-dev/LeetCode/tree/master/2614-prime-in-diagonal) |
+## Simulation
+|  |
+| ------- |
+| [2810-faulty-keyboard](https://github.com/avinashbyte-dev/LeetCode/tree/master/2810-faulty-keyboard) |
 <!---LeetCode Topics End-->
