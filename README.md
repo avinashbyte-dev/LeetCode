@@ -21,6 +21,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/avinashbyte-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/avinashbyte-dev/LeetCode/tree/master/2540-minimum-common-value) |
 | [2614-prime-in-diagonal](https://github.com/avinashbyte-dev/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/avinashbyte-dev/LeetCode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2784-check-if-array-is-good](https://github.com/avinashbyte-dev/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -147,5 +148,6 @@
 ## Simulation
 |  |
 | ------- |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/avinashbyte-dev/LeetCode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2810-faulty-keyboard](https://github.com/avinashbyte-dev/LeetCode/tree/master/2810-faulty-keyboard) |
 <!---LeetCode Topics End-->
