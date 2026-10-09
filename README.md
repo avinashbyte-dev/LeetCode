@@ -19,6 +19,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/avinashbyte-dev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/avinashbyte-dev/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/avinashbyte-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2614-prime-in-diagonal](https://github.com/avinashbyte-dev/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/avinashbyte-dev/LeetCode/tree/master/0009-palindrome-number) |
+| [2614-prime-in-diagonal](https://github.com/avinashbyte-dev/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Greedy
 |  |
 | ------- |
@@ -126,4 +128,12 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/avinashbyte-dev/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/avinashbyte-dev/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/avinashbyte-dev/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Matrix
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/avinashbyte-dev/LeetCode/tree/master/2614-prime-in-diagonal) |
+## Number Theory
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/avinashbyte-dev/LeetCode/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
