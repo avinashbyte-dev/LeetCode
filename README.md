@@ -19,6 +19,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/avinashbyte-dev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/avinashbyte-dev/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/avinashbyte-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2540-minimum-common-value](https://github.com/avinashbyte-dev/LeetCode/tree/master/2540-minimum-common-value) |
 | [2614-prime-in-diagonal](https://github.com/avinashbyte-dev/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/avinashbyte-dev/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/avinashbyte-dev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/avinashbyte-dev/LeetCode/tree/master/0567-permutation-in-string) |
+| [2540-minimum-common-value](https://github.com/avinashbyte-dev/LeetCode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -66,11 +68,13 @@
 | [0349-intersection-of-two-arrays](https://github.com/avinashbyte-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/avinashbyte-dev/LeetCode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/avinashbyte-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2540-minimum-common-value](https://github.com/avinashbyte-dev/LeetCode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashbyte-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashbyte-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [2540-minimum-common-value](https://github.com/avinashbyte-dev/LeetCode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
