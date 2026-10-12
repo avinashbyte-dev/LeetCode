@@ -19,6 +19,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/avinashbyte-dev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/avinashbyte-dev/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/avinashbyte-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/avinashbyte-dev/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/avinashbyte-dev/LeetCode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2540-minimum-common-value](https://github.com/avinashbyte-dev/LeetCode/tree/master/2540-minimum-common-value) |
 | [2614-prime-in-diagonal](https://github.com/avinashbyte-dev/LeetCode/tree/master/2614-prime-in-diagonal) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/avinashbyte-dev/LeetCode/tree/master/0042-trapping-rain-water) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/avinashbyte-dev/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Stack
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/avinashbyte-dev/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/avinashbyte-dev/LeetCode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2614-prime-in-diagonal](https://github.com/avinashbyte-dev/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Number Theory
@@ -174,4 +177,8 @@
 |  |
 | ------- |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/avinashbyte-dev/LeetCode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/avinashbyte-dev/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
