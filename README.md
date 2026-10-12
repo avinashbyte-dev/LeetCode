@@ -113,6 +113,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/avinashbyte-dev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/avinashbyte-dev/LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/avinashbyte-dev/LeetCode/tree/master/0043-multiply-strings) |
 | [2614-prime-in-diagonal](https://github.com/avinashbyte-dev/LeetCode/tree/master/2614-prime-in-diagonal) |
@@ -155,4 +156,12 @@
 | [0043-multiply-strings](https://github.com/avinashbyte-dev/LeetCode/tree/master/0043-multiply-strings) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/avinashbyte-dev/LeetCode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2810-faulty-keyboard](https://github.com/avinashbyte-dev/LeetCode/tree/master/2810-faulty-keyboard) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/avinashbyte-dev/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/avinashbyte-dev/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
