@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/avinashbyte-dev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0043-multiply-strings](https://github.com/avinashbyte-dev/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/avinashbyte-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/avinashbyte-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/avinashbyte-dev/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/avinashbyte-dev/LeetCode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/avinashbyte-dev/LeetCode/tree/master/0043-multiply-strings) |
 | [2614-prime-in-diagonal](https://github.com/avinashbyte-dev/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Greedy
 |  |
@@ -148,6 +150,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/avinashbyte-dev/LeetCode/tree/master/0043-multiply-strings) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/avinashbyte-dev/LeetCode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2810-faulty-keyboard](https://github.com/avinashbyte-dev/LeetCode/tree/master/2810-faulty-keyboard) |
 <!---LeetCode Topics End-->
