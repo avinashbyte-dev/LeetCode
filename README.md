@@ -57,6 +57,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/avinashbyte-dev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/avinashbyte-dev/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/avinashbyte-dev/LeetCode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/avinashbyte-dev/LeetCode/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/avinashbyte-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/avinashbyte-dev/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/avinashbyte-dev/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/avinashbyte-dev/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/avinashbyte-dev/LeetCode/tree/master/0071-simplify-path) |
 ## Monotonic Stack
 |  |
 | ------- |
