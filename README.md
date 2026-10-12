@@ -19,6 +19,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/avinashbyte-dev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/avinashbyte-dev/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/avinashbyte-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/avinashbyte-dev/LeetCode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2540-minimum-common-value](https://github.com/avinashbyte-dev/LeetCode/tree/master/2540-minimum-common-value) |
 | [2614-prime-in-diagonal](https://github.com/avinashbyte-dev/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/avinashbyte-dev/LeetCode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
@@ -50,6 +51,7 @@
 | [0347-top-k-frequent-elements](https://github.com/avinashbyte-dev/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashbyte-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/avinashbyte-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/avinashbyte-dev/LeetCode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2784-check-if-array-is-good](https://github.com/avinashbyte-dev/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## String
 |  |
@@ -75,6 +77,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/avinashbyte-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/avinashbyte-dev/LeetCode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/avinashbyte-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/avinashbyte-dev/LeetCode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2540-minimum-common-value](https://github.com/avinashbyte-dev/LeetCode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
@@ -90,6 +93,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/avinashbyte-dev/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/avinashbyte-dev/LeetCode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -106,6 +110,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/avinashbyte-dev/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/avinashbyte-dev/LeetCode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -145,6 +150,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/avinashbyte-dev/LeetCode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2614-prime-in-diagonal](https://github.com/avinashbyte-dev/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Number Theory
 |  |
@@ -164,4 +170,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/avinashbyte-dev/LeetCode/tree/master/0002-add-two-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/avinashbyte-dev/LeetCode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 <!---LeetCode Topics End-->
